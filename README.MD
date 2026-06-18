@@ -17,3 +17,7 @@ There are 3 popular branching strategies.
 **Git Flow:**
 
 ![alt text](git-flow.svg)
+
+
+**Feature Branching:**
+
