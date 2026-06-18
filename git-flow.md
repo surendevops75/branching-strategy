@@ -7,7 +7,6 @@ Git Flow is a branching strategy designed to manage feature development, release
 <p align="center">
   <img src="images/git-flow.svg" alt="git-flow.svg" width="1000">
 </p>
----
 
 ## Branch Types
 
