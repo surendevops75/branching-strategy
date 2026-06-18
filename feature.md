@@ -8,8 +8,6 @@ This workflow demonstrates a Feature Branching Strategy integrated with a DevSec
   <img src="images/feature.svg" alt="feature.svg" width="1000">
 </p>
 
----
-
 ## Workflow
 
 ### 1. Create Feature/Hotfix Branch
