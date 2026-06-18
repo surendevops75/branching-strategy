@@ -4,6 +4,10 @@
 
 This workflow demonstrates a Feature Branching Strategy integrated with a DevSecOps CI/CD pipeline. Every code change passes through automated quality checks, security validations, testing stages, and approval workflows before reaching production.
 
+<p align="center">
+  <img src="images/git-flow.png" alt="Git Flow Workflow" width="1000">
+</p>
+
 ---
 
 ## Workflow
