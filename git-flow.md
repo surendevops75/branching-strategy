@@ -4,6 +4,9 @@
 
 Git Flow is a branching strategy designed to manage feature development, releases, and production hotfixes in a structured manner. It provides clear separation between ongoing development, release preparation, and production maintenance, making it suitable for enterprise software delivery.
 
+<p align="center">
+  <img src="images/feature.svg" alt="feature.svg" width="1000">
+</p>
 ---
 
 ## Branch Types
