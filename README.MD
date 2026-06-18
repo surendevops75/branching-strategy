@@ -21,3 +21,4 @@ There are 3 popular branching strategies.
 
 **Feature Branching:**
 
+![alt text](feature.svg)
