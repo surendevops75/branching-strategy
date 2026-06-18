@@ -1,4 +1,3 @@
-````markdown
 # Git Flow Branching Strategy
 
 ## Overview
