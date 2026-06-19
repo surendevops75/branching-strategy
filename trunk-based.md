@@ -5,7 +5,7 @@
 This repository demonstrates a Trunk-Based Development (TBD) workflow integrated with a DevSecOps CI/CD pipeline. Developers work on short-lived feature branches and frequently merge changes into the main (trunk) branch. Automated quality checks, security scans, testing, and deployments ensure that the trunk remains production-ready at all times.
 
 <p align="center">
-  <img src="images/trunk-based.svg" alt="Trunk Based Development Workflow" width="1000">
+  <img src="images/trunk-based.png" alt="trunk-based.png" width="1000">
 </p>
 
 ---
