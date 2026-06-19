@@ -42,7 +42,7 @@ Feature Branching allows developers to work on isolated branches for each featur
 
 ### 3. Trunk-Based Development (TBD)
 
-Trunk-Based Development encourages frequent integration of small changes into a single main branch. Short-lived branches and continuous integration help teams deliver software faster and reduce merge conflicts.
+Trunk-Based Development encourages frequent integration of small changes into a single main branch. Short-lived branches and continuous integration help teams deliver software faster and reduce merge conflicts....
 
 <p align="center">
   <img src="./images/trunk-based.png" alt="Trunk Based Development" width="1000">
